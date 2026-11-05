@@ -1,0 +1,6 @@
+{
+  "name": "CrocusSpec GI — Kashmiri Saffron Adulteration Detection System",
+  "description": "End-to-end computer vision, VIS-NIR spectral imaging, and deep learning engineering workbench for automated Kashmiri Saffron (Crocus sativus L.) adulteration detection and GI quality grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
